@@ -1,2 +1,2 @@
 document.body.innerHTML = "<h1>Привет JSска</h1>"
-console.log("test");
+console.log("test123");
